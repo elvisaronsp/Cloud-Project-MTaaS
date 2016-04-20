@@ -1,1 +1,41 @@
+MTaaS - Mobile Testing as a Service is my cloud project developed in Cloud Technology course in San Jose State University, Fall 2015. 
+MTaaS is an application which is a platform for mobile application developers and testers. 
+In the current decade, hundreds of mobile applications are been developed and these developers need testers to test the application. 
+So my application basically serves as a SaaS running on cloud where developers can upload their application, i.e android or ios, 
+testers  can register according to their skills and look for type of project they are interested in and request developer for the particular project.
+Developers can also select the testers for their applications.
 
+MAJOR FEATURES-
+
+1. Dashboard
+2. Incentives tracking
+3. Project Type
+4. Testers Type
+5. Defect loggin page
+6. Defect Communication
+7. Billing module
+8. Email notification
+9. Profile page
+10. Registration page
+11. Admin dashboard page
+
+TECHNOLOGIES USED -
+
+1. Angularjs
+2. HTML
+3. CSS
+4. Bootstrap
+5. Nodejs
+6. Expressjs
+7. MySQL
+
+TOOLS - 
+
+1. Eclipse JEE Mars
+2. Bracckets
+
+CLOUD - 
+
+1. AWS EC-2 instances (Bitnami)
+2. AWS RDS
+3. AWS Load Balancer
